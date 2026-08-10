@@ -111,7 +111,7 @@ pwsh -File scripts/deploy.ps1 -Env esp32-F4R0 -Port /dev/ttyUSB0
 <br/><sub>通过 DHT11 传感器采集环境温湿度，OLED 屏实时显示，超限自动触发报警规则。</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://fastbee.cn/doc/device/examples/hardware-showcase.html"><img src="./images/case-device-modbus.png" alt="ESP32 Modbus" width="100%"/></a>
+<a href="https://fastbee.cn/doc/device/examples/hardware-showcase.html"><img src="./images/device.png" alt="ESP32 Modbus" width="100%"/></a>
 <br/><a href="https://fastbee.cn/doc/device/examples/hardware-showcase.html"><b>ESP32 实现 Modbus 监测和控制</b></a>
 <br/><sub>ESP32 物联网终端通过RS485接口采集 Modbus RTU 从站数据，实现工业传感器监测和控制。</sub>
 </td>
